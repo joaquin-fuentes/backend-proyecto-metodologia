@@ -1,4 +1,4 @@
-# 👨‍🍳 *Proyecto Recetas de cocina* 👨‍🍳
+#  *Proyecto Catalogo de Ropa Deportiva* 
 
 En este respositorio se encuentra el backend del proyecto
 
